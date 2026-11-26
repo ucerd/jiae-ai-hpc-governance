@@ -1,0 +1,24 @@
+{
+  "study_period": "2019–2025",
+  "stage_counts": [
+    50,
+    30,
+    12,
+    5,
+    3
+  ],
+  "stage_counts_note": "Reported aggregate counts; stage nesting and case linkage not independently verified. Last count is named emerging venture pathways.",
+  "training_participations": 1450,
+  "completed_jobs": 185377,
+  "not_field_tested_pct": 90.0,
+  "not_field_tested_note": "Aggregate complement conditional on nested stages; not permanent abandonment.",
+  "reported_venture_to_problem_pct": 6.0,
+  "venture_comparison_note": "Descriptive count comparison only; no field-to-venture conversion.",
+  "venture_crosswalk_verified": false,
+  "change_2024_to_2025_pct": {
+    "reported_active_users": 100.0,
+    "completed_jobs": 97.1321
+  },
+  "jobs_per_reported_user_2024": 64.02,
+  "jobs_per_reported_user_2025": 63.102
+}

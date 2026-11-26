@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.private/
+private/
+.env
+.env.*
+*.zip
+*.docx
+*.pdf
+*.xlsx
+*.mp4
+*.wav
+*.mp3
+*.pem
+*.key

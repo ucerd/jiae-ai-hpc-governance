@@ -1,0 +1,210 @@
+{
+  "version": "1.1.0",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 21,
+      "sha256": "ed52ccb3541226d583cf18fa3a3c271a8fbf1c66fbc6d0ddc761f8034f25fff9"
+    },
+    {
+      "path": ".github/workflows/validate.yml",
+      "bytes": 407,
+      "sha256": "f89774fde974c9924e5a72bbaf71a67212c13838f568fcc7c318b1619ecf0147"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 106,
+      "sha256": "15d6f65c4a834aa76a3f85afa85ff58a816aaae508c73fb5ac9b7d18331844c0"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 871,
+      "sha256": "e92a58b37f3c9abfecc98c6a2b81892b728a9ae36c3a0de0db632bc7edbcd0a1"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 522,
+      "sha256": "9a4ddcb06331e83b860e3dbf5f5e7e0ffa54d5719019faa0872b491206b35cf2"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 478,
+      "sha256": "c206bc425844f997590c37c9792591b2fd370a75761c07c90bbfeacc8af8e179"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4077,
+      "sha256": "9bd2b2c49167b391f423be705b1ea3b8a25e4ae5ae9130fad72dc56d063cee91"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 6,
+      "sha256": "1575e1af4a95f12f70b4ee6a6adce8160953d93ea17dc2611b90883ccc3ad3b8"
+    },
+    {
+      "path": "data/annual_hpc.csv",
+      "bytes": 314,
+      "sha256": "b92342e490d8b95cc9d7d555b3d638650fe96d252b00811d6977358f880aacf1"
+    },
+    {
+      "path": "data/annual_innovation.csv",
+      "bytes": 210,
+      "sha256": "ab51092dbc91968282ae0bba210126797133e523506bb10f5f430460f85d6037"
+    },
+    {
+      "path": "data/associated_funding.csv",
+      "bytes": 1643,
+      "sha256": "ee64fc6d88f468ba8d19eddcfe5d3295451058c577902aa9f6c99c08682711cb"
+    },
+    {
+      "path": "data/claim_evidence_matrix.csv",
+      "bytes": 3157,
+      "sha256": "730218c980053210a367067fdda9d0009b3d312090fdf9d956057f46204f48a2"
+    },
+    {
+      "path": "data/context_2026/management_metrics.csv",
+      "bytes": 1385,
+      "sha256": "7ee972f5d3e4f58626805a5865ee25800b96d1dbed21add28cdd5375a325462d"
+    },
+    {
+      "path": "data/management_clarifications/financing_2025.csv",
+      "bytes": 481,
+      "sha256": "e5aa98c9e51b440909c6134229282f75d57daed5fd0f85557edf8060e1fd0696"
+    },
+    {
+      "path": "data/management_clarifications/operational_practices.csv",
+      "bytes": 2578,
+      "sha256": "4a7025956b47a2ae739d684124324b6d2e23a81b907b5b0fbc9b2a60bf16748a"
+    },
+    {
+      "path": "data/management_clarifications/stakeholder_feedback.csv",
+      "bytes": 589,
+      "sha256": "18e087c0c58f6f0ef7fc7e5211039972a283e0f412a751bddd6e2c7f3b3ff6d2"
+    },
+    {
+      "path": "data/post_study_dataset_index.csv",
+      "bytes": 1143,
+      "sha256": "2ddefd17c17bcf00e097b15fd6e1812c6ae043cac0da321a14f1209abd495c54"
+    },
+    {
+      "path": "data/programmes.csv",
+      "bytes": 273,
+      "sha256": "28d3c3a8d200ca2c353b614a7c18682477e4bb78a6b70701e0bdf01f061cdc3d"
+    },
+    {
+      "path": "data/revision_issue_register.csv",
+      "bytes": 1518,
+      "sha256": "53742ae6215363fa5dd6cc611b2953db7ee06db2ab6f78757cb21c042f5f3d32"
+    },
+    {
+      "path": "data/startup_pathways.csv",
+      "bytes": 1375,
+      "sha256": "563a944acc69b28f1ba2fb5880588cce3120997d2e815235dc7001049ffb5f05"
+    },
+    {
+      "path": "docs/DATA_AVAILABILITY.md",
+      "bytes": 1614,
+      "sha256": "5f824eb4f83643d09087092a7c5fbc9be20139932832629ca35386929a911d8b"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 2287,
+      "sha256": "cce142b8ea4d8998c10cdbfa578ffeae836ffbb0d931862f644548f51403b739"
+    },
+    {
+      "path": "docs/INDEPENDENT_REVIEW_PROTOCOL.md",
+      "bytes": 884,
+      "sha256": "dbe54141d45a821b977e7acd42a90104564db607ece1666f585e641be6df21b3"
+    },
+    {
+      "path": "docs/OPERATIONAL_GOVERNANCE.md",
+      "bytes": 4067,
+      "sha256": "434a910decc0ba0c567b0c7c806bb051a7da2f43a869638ec97b76caaf6d82c8"
+    },
+    {
+      "path": "docs/RELATED_DASHBOARD_NOTES.md",
+      "bytes": 2672,
+      "sha256": "ee0847fbeb7d2bd7e86c34b10a959ae840d56b2f473b701fe137b1ec727aeda9"
+    },
+    {
+      "path": "docs/RELEASE_CHECKLIST.md",
+      "bytes": 1353,
+      "sha256": "abc70e746dfb42b140596d6a96f1ac90c626c5f358fc9c3bc4a1446750c0a003"
+    },
+    {
+      "path": "docs/STARTUP_VERIFICATION.md",
+      "bytes": 1240,
+      "sha256": "e40c6aefc0060b04cc16acb8f1d45fe527f99a38dd76c8d389970853113275a2"
+    },
+    {
+      "path": "results/funnel.csv",
+      "bytes": 426,
+      "sha256": "9e0c601ff1d270e704e8ebaa280f51c6d66a12cf6bbd0618c0ab0b8cb0c09e80"
+    },
+    {
+      "path": "results/funnel.svg",
+      "bytes": 1287,
+      "sha256": "7efc5a6e9aff5d0c7abde1f3a5a9933e65ccfc971607009decbded67530e7c50"
+    },
+    {
+      "path": "results/hpc_yearly_changes.csv",
+      "bytes": 401,
+      "sha256": "ab9c4c19a721bd828ed194992673d50828b1afb82e38c6c432c047e4f878bf8b"
+    },
+    {
+      "path": "results/legacy_accounting_changes.csv",
+      "bytes": 860,
+      "sha256": "6e503e6671f8096d502b66c32906300e236e7e31163d6048f83a8d7cbe08e5a7"
+    },
+    {
+      "path": "results/summary.json",
+      "bytes": 823,
+      "sha256": "cfb6593fe490c9ffaf53bd7b24eb26f7acc017eb27c794c45e391518e00efb1a"
+    },
+    {
+      "path": "scripts/reproduce.py",
+      "bytes": 4694,
+      "sha256": "e1e94aff9f3f60f2bea49a353c49c994387676bf798bc134f47273b8401e93d5"
+    },
+    {
+      "path": "scripts/verify.py",
+      "bytes": 1247,
+      "sha256": "49e8e7122c7c07ba2e6a182334203125013b0f7b5509bcec5ef553be4475d55a"
+    },
+    {
+      "path": "templates/annual_financial_reconciliation.csv",
+      "bytes": 183,
+      "sha256": "775c1d3b7bbde62d42d8e24fb6cda5a5fb829080e7671f99dc22377b4dd0f882"
+    },
+    {
+      "path": "templates/independent_gate_review.csv",
+      "bytes": 120,
+      "sha256": "13732b84fc96b77d0a5788ba6a8583114b217e781cae029e4ccd83f8aa46aaf1"
+    },
+    {
+      "path": "templates/monthly_scheduler_register.csv",
+      "bytes": 135,
+      "sha256": "ea6d4b57714c78daec8bc0ac44caea205526c99d82a84dc392f073eea607a5b7"
+    },
+    {
+      "path": "templates/partner_gate_acceptance.csv",
+      "bytes": 198,
+      "sha256": "9c581a92762b8ccbe21f91ccc7b7f9258a72afd1a60d5e31b0e38f15ea530af3"
+    },
+    {
+      "path": "templates/project_gate_register.csv",
+      "bytes": 212,
+      "sha256": "b11e521745317f19596fb0e3f45da526eb405cec8455b1bb62c1b51db6c236dd"
+    },
+    {
+      "path": "templates/stakeholder_feedback_inventory.csv",
+      "bytes": 135,
+      "sha256": "cde31f07101cb5e4c4eb931463d120c3b03a3014e93389a1d988e9e85bf30515"
+    },
+    {
+      "path": "tests/test_reproduction.py",
+      "bytes": 2864,
+      "sha256": "e700b835f305f770a2465d2b4eeeb71d4bd5c271a708d5fb41582653e3b13106"
+    }
+  ]
+}

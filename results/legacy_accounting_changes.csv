@@ -1,0 +1,8 @@
+year,legacy_mixed_accounting_entries,change_pct_in_legacy_entries,interpretation
+2019,20221,,Heterogeneous CPU/GPU administrative entries; not physical utilization or workload intensity
+2020,30112,48.9145,Heterogeneous CPU/GPU administrative entries; not physical utilization or workload intensity
+2021,50225,66.794,Heterogeneous CPU/GPU administrative entries; not physical utilization or workload intensity
+2022,52331,4.1931,Heterogeneous CPU/GPU administrative entries; not physical utilization or workload intensity
+2023,132011,152.2616,Heterogeneous CPU/GPU administrative entries; not physical utilization or workload intensity
+2024,232041,75.774,Heterogeneous CPU/GPU administrative entries; not physical utilization or workload intensity
+2025,732011,215.4662,Heterogeneous CPU/GPU administrative entries; not physical utilization or workload intensity

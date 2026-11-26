@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Cite this reproducibility package and the associated manuscript; add the published DOI when available."
+title: "TRL-Gated AI/HPC Governance Model: Reproducibility Package"
+type: software
+version: 1.1.0
+date-released: 2026-11-26
+authors:
+  - family-names: Hussain
+    given-names: Tassadaq
+  - family-names: Islam
+    given-names: Muhammad Najam Ul
+  - family-names: Haider
+    given-names: Amna
+  - family-names: Alharbi
+    given-names: Soltan
+  - family-names: Tan
+    given-names: Kim Geok

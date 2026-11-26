@@ -1,0 +1,6 @@
+stage,count,percent_of_previous_reported_count,percent_of_problem_cases,interpretation
+Problem cases,50,,100.0,Reported aggregate
+Dataset-enabled,30,60.0,60.0,Aggregate comparison; nested-stage assumption
+Lab-tested,12,40.0,24.0,Aggregate comparison; nested-stage assumption
+Field-tested,5,41.6667,10.0,Aggregate comparison; nested-stage assumption
+Emerging venture pathways,3,,6.0,Named pathways; descriptive comparison only

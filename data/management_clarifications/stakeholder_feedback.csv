@@ -1,0 +1,3 @@
+indicator,reported_value,unit,qualifier,reference_period,source,evidence_boundary
+stakeholder_interactions,200,interview interactions,approximate,Not independently established; reported during revision,"Centre management clarification, 2026-11-26","Routine consultations, not a sampled research interview dataset; unique persons not established"
+recorded_interactions,100,recorded interviews,approximate subset of reported interactions,Not independently established; reported during revision,"Centre management clarification, 2026-11-26",Recordings not supplied or systematically coded

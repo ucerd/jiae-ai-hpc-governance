@@ -1,0 +1,15 @@
+claim_id,claim,source,reproducibility_status,limitation,next_evidence
+C01,50/30/12/5 stage counts,Manuscript Table 6; annual_innovation.csv,Aggregate arithmetic reproduced,Aggregate stage comparison; nested-stage assumption; no reconstructed case trajectories,Dated deduplicated project register
+C02,3 named venture pathways,Manuscript section 6.4; author confirmation; startup_pathways.csv,Names and technical context documented,Formal gate records and nested case mapping pending,Dated launch/incubation/registration evidence and case IDs
+C03,185377 completed jobs; legacy 1248952 heterogeneous accounting total,Manuscript Table 7; annual_hpc.csv,Arithmetic reproduced,Mixed series isolated; not physical utilization; raw scheduler logs not supplied,Original accounting definitions and exports
+C04,2025 increase,Manuscript Table 7,Annual changes reproduced; management explanations recorded,"Workload mix, automated share and account identity unknown",Monthly jobs and CPU/GPU breakdown where available
+C05,1450 training participations,Manuscript Tables 6 and 7,Annual totals reproduced,Unique people and learning outcomes not established,Deduplicated rosters and independent assessments
+C06,15 patent applications,Manuscript section 6.7,Reported aggregate only,"Not grants, licenses, or sales",Dated filing register
+C07,Associated funded portfolio,Manuscript section 5.1 and funding statement,Reported amounts transcribed,Portfolio awards are not operating income; reported cost shares separately registered,"Award documents, accounting records"
+C08,Open dataset releases,Author-supplied Zenodo listing,Post-study index only,Publication dates after cutoff; draft not treated published,Dated underlying case evidence for historical attribution
+C09,Transferability and causality,Single-case design,Propositions only,No comparator or independent causal identification,Multi-site evaluation
+C10,Management dashboard 2023–2026,Related PeerJ package,Context only,Provisional definitions and mixed window,Validated register and cutoff alignment
+C11,PIA/MoU and end-user gate review,data/management_clarifications/operational_practices.csv,Management-reported procedure,No signed case-specific agreement or independent coding audit inspected,Dated agreement and milestone acceptance register
+C12,Approximately 200 stakeholder interactions; approximately 100 recorded,data/management_clarifications/stakeholder_feedback.csv,Management-reported counts and feedback topics,No interview corpus coding; timing and unique persons not established,Permission-cleared anonymized inventory and systematic analysis
+C13,Approximate 2025 cost coverage 70% / NEF support 30%,data/management_clarifications/financing_2025.csv,"Management-reported shares, not independently calculated",Finance records reported to exist but not inspected; scope/denominator not verified,Finance-approved annual income and expense reconciliation
+C14,Reasons for delayed project progression,data/management_clarifications/operational_practices.csv,Management-reported operational explanations,No case-level attribution or frequency,Dated project status and gate decision register
